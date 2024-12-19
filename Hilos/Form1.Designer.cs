@@ -52,7 +52,7 @@
             // pictureBox2
             // 
             pictureBox2.BorderStyle = BorderStyle.Fixed3D;
-            pictureBox2.Location = new Point(276, 19);
+            pictureBox2.Location = new Point(32, 228);
             pictureBox2.Margin = new Padding(2);
             pictureBox2.Name = "pictureBox2";
             pictureBox2.Size = new Size(229, 177);
@@ -73,7 +73,7 @@
             // pictureBox3
             // 
             pictureBox3.BorderStyle = BorderStyle.Fixed3D;
-            pictureBox3.Location = new Point(32, 228);
+            pictureBox3.Location = new Point(276, 19);
             pictureBox3.Margin = new Padding(2);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(229, 177);
